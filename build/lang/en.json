@@ -159,7 +159,7 @@
     "mm.login.authenticating": "Authenticating",
     "mm.login.cancel": "Cancel",
     "mm.login.credentials": "Credentials",
-    "mm.login.credentialsdescription": "Please provide your username and password to login on ",
+    "mm.login.credentialsdescription": "Please provide your username and password to login ",
     "mm.login.confirmdeletesite": "Are you sure you want to delete the site {{sitename}}?",
     "mm.login.connect": "Connect!",
     "mm.login.connecttomoodle": "Connect to Campus",
