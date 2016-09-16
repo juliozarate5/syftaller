@@ -657,5 +657,6 @@
     "mma.notifications.errorgetnotifications": "Error al obtener notificaciones",
     "mma.notifications.notifications": "Notificaciones",
     "mma.notifications.therearentnotificationsyet": "No hay notificaciones",
-    "mma.participants.participants": "Participantes"
+    "mma.participants.participants": "Participantes",
+	"mm.login.newsitedescription": "Bienvenido al Campus"
 }
